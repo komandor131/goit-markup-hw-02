@@ -7,27 +7,32 @@
     text-transform: uppercase;
     color: #4d5ae5;
 }
+
 span {
     color: #2e2f42;
 }
+
 body {
     font-family: "Roboto", sans-serif;
     background-color: white;
     color: #434455;
 }
+
 .hero-section {
     background-color: #2E2F42;
     color: white;
     text-align: center;
-    
+
 }
+
 .hero-section h1 {
-    font-family: "Roboto" , sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
-    
+
 }
+
 .hero-section button {
     font-family: "Roboto", sans-serif;
     background-color: #4D5AE5;
@@ -38,13 +43,16 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
 }
+
 .button-block:hover,
 .button-block:focus {
     background-color: #4D5AE5;
 }
+
 a {
     text-decoration: none;
 }
+
 .footer-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -54,6 +62,7 @@ a {
     text-transform: uppercase;
     color: #4d5ae5;
 }
+
 .menu-nav {
     font-weight: 500;
     line-height: 1.5;
@@ -61,26 +70,32 @@ a {
     color: #2e2f42;
 
 }
+
 .menu-nav:hover,
 .menu-nav:focus {
     color: #404bbf;
 }
+
 .address-title {
     font-style: normal;
 }
+
 .contacts-link {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
+
 .contacts-link:hover,
 .contacts-link:focus {
     color: #404bbf;
 }
+
 .title-block {
-    line-height:1.07;
+    line-height: 1.07;
     letter-spacing: 0.02em;
 }
+
 .strengths-title {
     font-weight: 500;
     font-size: 20px;
@@ -88,15 +103,18 @@ a {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+
 .strengths-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
+
 .team-list {
     background-color: #F4F4FD;
 }
+
 .team-list {
     font-size: 36px;
     line-height: 1.11;
@@ -105,17 +123,21 @@ a {
     text-transform: capitalize;
     color: #2e2f42;
 }
+
 .team-item {
     background-color: #FFFFFF;
 }
+
 .footer-title {
     background-color: #2e2f42;
 }
+
 .logo-web {
     color: #f4f4fd;
     line-height: 1.5;
 
 }
+
 .footer-text {
     color: #F4F4FD;
     letter-spacing: 0.02em;
