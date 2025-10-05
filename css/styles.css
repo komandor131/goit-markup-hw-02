@@ -46,7 +46,7 @@ body {
 
 .button-block:hover,
 .button-block:focus {
-    background-color: #4D5AE5;
+    background-color: #404BBF;
 }
 
 a {
@@ -112,7 +112,7 @@ a {
 }
 
 .team-list {
-    background-color: #F4F4FD;
+    letter-spacing: 0.02;
 }
 
 .team-list {
@@ -141,4 +141,8 @@ a {
 .footer-text {
     color: #F4F4FD;
     letter-spacing: 0.02em;
+    line-height: 1.5;
+}
+.our-team {
+    background-color: #F4F4FD
 }
