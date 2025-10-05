@@ -25,7 +25,7 @@ body {
     font-family: "Roboto" , sans-serif;
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.2;
+    line-height: 1.07;
     
 }
 .hero-section button {
@@ -38,16 +38,21 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
 }
-.header-title button:hover,
-.header-title button:focus {
+.button-block:hover,
+.button-block:focus {
     background-color: #4D5AE5;
 }
 a {
     text-decoration: none;
 }
 .footer-logo {
-    font-family: "Raleway" sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
 }
 .menu-nav {
     font-weight: 500;
@@ -73,17 +78,17 @@ a {
     color: #404bbf;
 }
 .title-block {
-    line-height: 1.07;
+    line-height:1.07;
     letter-spacing: 0.02em;
 }
-.h3-title {
+.strengths-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.h3-text {
+.strengths-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -91,4 +96,27 @@ a {
 }
 .team-list {
     background-color: #F4F4FD;
+}
+.team-list {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.team-item {
+    background-color: #FFFFFF;
+}
+.footer-title {
+    background-color: #2e2f42;
+}
+.logo-web {
+    color: #f4f4fd;
+    line-height: 1.5;
+
+}
+.footer-text {
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
